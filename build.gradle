@@ -28,6 +28,9 @@ dependencies {
 	    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
         implementation 'org.springframework.boot:spring-boot-starter-web'
         implementation 'org.springframework.boot:spring-boot-starter-freemarker'
+        implementation 'org.hibernate.validator:hibernate-validator:6.2.5.Final'
+        implementation 'org.glassfish:jakarta.el:3.0.3'
+
 
         // MapStruct for automatic mapping
         implementation 'org.mapstruct:mapstruct:1.5.3.Final'
