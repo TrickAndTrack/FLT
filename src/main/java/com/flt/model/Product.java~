@@ -1,0 +1,4 @@
+package com.flt.model;
+
+public class Product {
+}
